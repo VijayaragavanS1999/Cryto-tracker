@@ -1,0 +1,33 @@
+.coin {
+  display: flex;
+  align-items: center;
+  padding-right: 24px;
+  min-width: 300px;
+  font-weight: bold;
+}
+.head_rank {
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 30px;
+}
+.head-coin {
+  margin-right: 40px;
+}
+.head-logo {
+  margin-right: 42px;
+}
+.head-symbol {
+  margin-right: 70px;
+}
+.head-price {
+  margin-right: 120px;
+}
+.head-volume {
+  margin-right: 100px;
+}
+.head-change {
+  margin-right: 100px;
+}
+.head-price {
+  margin-right: ;
+}
